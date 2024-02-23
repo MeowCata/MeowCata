@@ -7,7 +7,10 @@
 <!--img align="left" src="https://github-readme-stats.vercel.app/api?username=MeowCata&show_icons=true&count_private=false&theme=vue-dark" /!-->
 
 [![MeowCata's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeowCata)](https://github.com/anuraghazra/github-readme-stats)
+* 以下内容~~抄袭~~借鉴于![Ad_closeNN](https://github.com/Ad_closeNN)
 <div align="center">
+  
+| <a href="https://github.com/MeowCata"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MeowCata&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="MeowCata's github stats" /></a> | <a href="https://github.com/MeowCata"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeowCata&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
 
 [![JavaScript](https://img.shields.io/badge/-Javascript-FFE70B?logo=Javascript&logoColor=fff)](https://javascript.com)
 [![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=fff)](https://www.typescriptlang.org)
@@ -29,5 +32,5 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-F05000?logo=ubuntu&logoColor=fff)](https://ubuntu.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff)](https://android.com)
 
-<div>- 只 是 一 些 链 接 罢 了 -</div>
+<div>- Links from Ad_CloseNN -</div>
 </div>
