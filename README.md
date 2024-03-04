@@ -8,4 +8,4 @@
 
 <a href="https://github.com/MeowCata"><img align="left" src="https://github-readme-stats.vercel.app/api?username=MeowCata&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&locale=en" alt="MeowCata's github stats" /></a>
 
-<a href="https://github.com/meowcata"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowcata&locale=en&layout=compact&theme=onedark&hide_border=true" alt="MeowCata's github stats" /></a>
+<a href="https://github.com/meowcata"><img align="center" src="https://github-readme-stats.vercel.app/api?top-langs/?username=meowcata&locale=en&layout=compact&theme=onedark&hide_border=true" alt="MeowCata's github stats" /></a>
