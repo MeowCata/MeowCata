@@ -2,7 +2,7 @@
 > ### Hi There👋
 
 ## *I love coding, just imagine✨ & create🎇!*
-My favorite saying is ***Believe the power of believing. ————Cai Lei***
+My favorite saying is ***Believe the power of believing. ——Cai Lei***
 
 ### *My CSDN: [Here](https://blog.csdn.net/weixin_45122104)*
 ### *GitHub Page: [Here](https://meowcata.github.io/)*
