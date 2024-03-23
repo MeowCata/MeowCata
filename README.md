@@ -2,8 +2,10 @@
 > ### Hi There👋
 
 ## *I love coding, just imagine✨ & create🎇!*
+My favorite saying is ***Believe the power of believing. ————Cai Lei***
 
 ### *My CSDN: [Here](https://blog.csdn.net/weixin_45122104)*
+### *GitHub Page: [Here](https://meowcata.github.io/)*
 #### *My Email: 2797663076@qq.com*
 <!--img align="left" src="https://github-readme-stats.vercel.app/api?username=MeowCata&show_icons=true&count_private=false&theme=vue-dark" /!-->
 
