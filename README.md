@@ -8,7 +8,7 @@ My favorite saying is ***Believe the power of believing. ——Cai Lei***
 ### *GitHub Page: [Here](https://meowcata.github.io/)*
 #### *My Email: 2797663076@qq.com*
 <!--img align="left" src="https://github-readme-stats.vercel.app/api?username=MeowCata&show_icons=true&count_private=false&theme=vue-dark" /!-->
-*Deployed on FlippedAir, my second account*
+*Deployed on FlippedCloud, my second account*
 
 <a href="https://github.com/MeowCata"><img align="left" src="https://github-readme-stats-flippedairs-projects.vercel.app/api?username=meowcata&show_icons=true&theme=onedark&hide_border=true&locale=en&include_all_commits=false" alt="MeowCata's github stats" /></a>
 
