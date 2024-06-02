@@ -8,7 +8,7 @@ My favorite saying is ***Believe the power of believing. ——Cai Lei***
 ### *GitHub Page: [Here](https://meowcata.github.io/)*
 #### *My Email: 2797663076@qq.com*
 <!--img align="left" src="https://github-readme-stats.vercel.app/api?username=MeowCata&show_icons=true&count_private=false&theme=vue-dark" /!-->
-##### Minecraft同名账户（购买于5.25）为童年补票！
+##### Minecraft同名账户（MeowCata)为童年补票！
 
 *Deployed on FlippedCloud, my second account*
 
