@@ -4,7 +4,7 @@
 ## *I love coding, just imagine✨ & create🎇!*
 My favorite saying is ***Believe the power of believing. ——Cai Lei***
 
-### *GitHub Page: [Here](https://meowcata.github.io/)*
+### *Site: [miaocaty.top](https://miaocaty.top)*
 
 <!--img align="left" src="https://github-readme-stats.vercel.app/api?username=MeowCata&show_icons=true&count_private=false&theme=vue-dark" /!-->
 
